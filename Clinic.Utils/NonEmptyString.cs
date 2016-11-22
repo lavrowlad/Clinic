@@ -4,7 +4,7 @@ using System;
 
 namespace Clinic.Utils
 {
-	public abstract class NonEmptyString : AbstractProperty
+	public class NonEmptyString : AbstractProperty
 	{
 		public string Value
 		{

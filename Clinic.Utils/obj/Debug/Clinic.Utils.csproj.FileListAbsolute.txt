@@ -1,0 +1,5 @@
+D:\REPOSITORIES\Clinic\Clinic.Utils\obj\Debug\Clinic.Utils.csprojResolveAssemblyReference.cache
+D:\REPOSITORIES\Clinic\Clinic.Utils\bin\Debug\Clinic.Utils.exe
+D:\REPOSITORIES\Clinic\Clinic.Utils\bin\Debug\Clinic.Utils.pdb
+D:\REPOSITORIES\Clinic\Clinic.Utils\obj\Debug\Clinic.Utils.exe
+D:\REPOSITORIES\Clinic\Clinic.Utils\obj\Debug\Clinic.Utils.pdb

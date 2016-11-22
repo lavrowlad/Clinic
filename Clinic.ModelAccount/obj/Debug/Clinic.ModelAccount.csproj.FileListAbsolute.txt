@@ -1,0 +1,8 @@
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\bin\Debug\Clinic.ModelAccount.exe.config
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\bin\Debug\Clinic.ModelAccount.exe
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\bin\Debug\Clinic.ModelAccount.pdb
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\bin\Debug\Clinic.Utils.exe
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\bin\Debug\Clinic.Utils.pdb
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\obj\Debug\Clinic.ModelAccount.csprojResolveAssemblyReference.cache
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\obj\Debug\Clinic.ModelAccount.exe
+D:\REPOSITORIES\Clinic\Clinic.ModelAccount\obj\Debug\Clinic.ModelAccount.pdb
