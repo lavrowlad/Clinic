@@ -15,7 +15,7 @@ namespace Clinic.ModelAccount
 
 		public string Email
 		{
-			get { return _name.Value; }
+			get { return _email.Value; }
 			set { _email.Value = value; }
 		}
 
@@ -23,8 +23,8 @@ namespace Clinic.ModelAccount
 		public Account ( Guid id, string name, string email, string password )
 			: base( id )
 		{
-			this.Name = name;
-			this.Email = email;
+			this._name.Value = name;
+			this._email.Value = email;
 			ChangePassword( password );
 		}
 
