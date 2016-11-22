@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace Clinic.ModelAccount
 {
-	public class Account : Utils.Entity
+	public abstract class Account : Utils.Entity
 	{
 		public string Name
 		{
